@@ -1,0 +1,6 @@
+.kolor{
+    background-color: #f3f;
+}
+.kolor.active{
+    background-color: pink;
+}
